@@ -54,15 +54,15 @@ Visualization was key to revealing patterns and trends. Some key charts include:
 
 1. **Credit Score Distribution**: Displays the count of each credit score category (Good, Standard, Poor).
    
-   ![Credit Score Distribution](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis/blob/main/charts/credit_score_distribution/blob/main/Chart/credit_score_distribution.jpg)
+   ![Credit Score Distribution](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis/blob/main/Chart/credit_score_distribution.jpg)
 
 2. **Occupation**: Bar Chart Knowing the occupation with the most loan applicants can help focus marketing efforts.
    
-   ![Occupation](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis/blob/main/charts/Occupation.jpg)
+   ![Occupation](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis/blob/main/Charts/Occupation.jpg)
 
 3. **Credit Utilization Ratio Distribution**: Histogram displaying the spread of credit utilization ratios.
    
-   ![Credit Utilization Distribution](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis/blob/main/charts/credit_utilization_ratio_distribution_retry.jpg)
+   ![Credit Utilization Distribution](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis/blob/main/Charts/credit_utilization_ratio_distribution_retry.jpg)
 
 For more visualizations, check the full analysis [here](https://github.com/Ayush245101/Paisabazaar-Banking-Fraud-Analysis-Exploratory-Data-Analysis).
 
